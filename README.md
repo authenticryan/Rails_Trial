@@ -1,4 +1,6 @@
-# README
+Experimentation on rails project for an upcoming challenge. You will find nothing of any importance here. You have been warned :p
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
