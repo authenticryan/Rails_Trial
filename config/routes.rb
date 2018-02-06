@@ -1,9 +1,8 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
-    root 'application#goodbye'
+  root 'application#goodbye'
 
-    get '/goodbye', to: 'application#goodbye' do
-        
-    end
+  get '/goodbye', to: 'application#goodbye' do
+  end
 end
